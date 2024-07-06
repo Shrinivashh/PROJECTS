@@ -145,7 +145,6 @@ Thank you for using the **Students Information System**! 🚀
 
 ---
 
-![Students Information System](https://via.placeholder.com/800x200.png?text=Students+Information+System)
 
 ---
 
