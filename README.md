@@ -148,4 +148,3 @@ Thank you for using the **Students Information System**! 🚀
 
 ---
 
-Feel free to customize this README file to better suit your project's needs and style!
